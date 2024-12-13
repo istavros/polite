@@ -1,0 +1,17 @@
+{
+    "name": "istavros/polite",
+    "description": "Let's make our code polite",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Istavros\\Polite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stavros Ioannidis",
+            "email": "istavros@gmail.com"
+        }
+    ],
+    "require": {}
+}
