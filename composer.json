@@ -2,7 +2,7 @@
     "name": "istavros/polite",
     "description": "Let's make our code polite",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "autoload": {
         "psr-4": {
             "Istavros\\Polite\\": "src/"
