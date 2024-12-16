@@ -3,6 +3,14 @@ Let's make our code polite
 
 You can wrap any object in a Polite wrapper and ask it to perform actions politely.
 
+## Installation
+
+```
+composer require istavros/polite
+```
+
+## Example
+
 ```php
 
 class Myclass {
